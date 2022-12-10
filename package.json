@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/Rantelo/PointOfSales/issues"
   },
-  "homepage": "https://github.com/Rantelo/PointOfSales#readme"
+  "homepage": "https://github.com/Rantelo/PointOfSales#readme",
+  "type": "module"
 }

@@ -1,0 +1,4 @@
+quantity,good_name,price,imported,basic
+2,book,12.49,false,true
+1,music CD,14.99,false,false
+1,chocolate bar,0.85,false,false

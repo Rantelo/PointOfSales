@@ -1,0 +1,3 @@
+quantity,good_name,price,imported,basic
+1,box of chocolates,10.00,true,true
+1,bottle of perfume,47.50,true,false
