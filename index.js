@@ -1,7 +1,12 @@
-// Read csv
+import PointOfSales from './src/PointOfSales.js';
 
 // Instantiate POS
+const pointOfSales = new PointOfSales();
 
-// POS create items given input file
+// Load inputs
+pointOfSales.loadPurchase('./tests/inputs/input1.csv');
+pointOfSales.loadPurchase('./tests/inputs/input2.csv');
+pointOfSales.loadPurchase('./tests/inputs/input3.csv');
 
-// POS print Output
+// Print Outputs
+pointOfSales.printHistory();
