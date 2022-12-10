@@ -4,7 +4,7 @@
   "description": "Application that prints out the receipt details for shopping baskets",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
     "url": "https://github.com/Rantelo/PointOfSales/issues"
   },
   "homepage": "https://github.com/Rantelo/PointOfSales#readme",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
 }
