@@ -1,0 +1,19 @@
+{
+  "name": "pointofsales",
+  "version": "1.0.0",
+  "description": "Application that prints out the receipt details for shopping baskets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rantelo/PointOfSales.git"
+  },
+  "author": "Roberto Antelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rantelo/PointOfSales/issues"
+  },
+  "homepage": "https://github.com/Rantelo/PointOfSales#readme"
+}
