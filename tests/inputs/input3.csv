@@ -1,4 +1,4 @@
-quantity,good_name,price,imported,basic
+quantity,description,price,imported,basic
 1,bottle of perfume,27.99,true,false
 1,bottle of perfume,18.99,false,false
 1,packet of headache pills,9.75,false,true
