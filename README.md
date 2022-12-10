@@ -3,6 +3,9 @@ Application that prints out the receipt details for shopping baskets.
 
 Thank you for taking the time to review this code challenge.
 
+## Results
+![image](https://user-images.githubusercontent.com/5539993/206852263-b24b2705-08db-428f-afa4-92c1b643a865.png)
+
 ## Files Structure
 - src: Models
 - tests:
